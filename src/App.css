@@ -1,0 +1,14 @@
+#pokemon-name-search{
+    margin-top: 2rem;
+    width: 600px;
+    padding: 1.5rem;
+}
+.outer-pokedex{
+    display:  flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+a:visited{
+    color: black;
+}
